@@ -29,7 +29,7 @@ function App() {
           alt="React logo"
           style={{
             position: 'absolute',
-            bottom: '20vh',
+            bottom: '22vh',
             left: '5vh',
             width: '20vh',
           }}
