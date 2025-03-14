@@ -31,7 +31,7 @@ function App() {
             position: 'absolute',
             bottom: '22vh',
             left: '5vh',
-            height: '20vh',
+            width: '18vh',
           }}
         />
       </div>
